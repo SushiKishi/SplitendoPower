@@ -114,7 +114,7 @@ namespace LiveSplit.UI.Components
 
 
         //Lightswitch variable; set these to off, the SplitStatus functions at the bototm turn them on, the Update function turns them off and fires code
-        bool updateSplit = false;
+        string updateSplit = "no";
 
         // This is the function where we decide what needs to be displayed at this moment in time,
         // and tell the internal component to display it. This function is called hundreds to
@@ -122,14 +122,51 @@ namespace LiveSplit.UI.Components
         public void Update(IInvalidator invalidator, LiveSplitState state, float width, float height, LayoutMode mode)
         {
 
-            if (updateSplit)
+            //You hit the split button
+            if (updateSplit != "no")
             {
+                //close the loop, tell the web app to update
+                updateSplit = "no";
+                File.WriteAllText(Settings.SPDir + "\\data\\vars\\splitChange", "1");
 
-                File.WriteAllText(Settings.SPDir + "\\split.txt", state.CurrentSplitIndex.ToString());
-                updateSplit = false;
 
+                //If you just reset, go back to intro screen.
+                if (updateSplit == "reset") {
+
+                    File.WriteAllText(Settings.SPDir + "\\data\\vars\\splitName", "___INTRO___");
+                    File.WriteAllText(Settings.SPDir + "\\data\\vars\\splitIndex", "-1");
+
+                }
+
+                //You started a run or went to the next split
+                else
+                {
+
+                    //You're in the middle of a run
+                    if (state.CurrentSplitIndex < state.Run.Count) {
+
+                        File.WriteAllText(Settings.SPDir + "\\data\\vars\\splitName", state.Run[state.CurrentSplitIndex].Name);
+                        File.WriteAllText(Settings.SPDir + "\\data\\vars\\splitIndex", state.CurrentSplitIndex.ToString());
+
+                    }
+
+
+                    //You just hit  your last speed; you didn't "finish" the run and the final time is still on the screen.
+                    //Go back to start to prevent any kind of Indices being OUt of Bounds
+                    else {
+
+                        File.WriteAllText(Settings.SPDir + "\\data\\vars\\splitName", "___INTRO___");
+                        File.WriteAllText(Settings.SPDir + "\\data\\vars\\splitIndex", "-1");
+
+                    }
+                    
+                }
+
+                
             }
 
+                
+                
         }
 
         // This function is called when the component is removed from the layout, or when LiveSplit
@@ -148,7 +185,7 @@ namespace LiveSplit.UI.Components
         void state_OnStart(object sender, EventArgs e)
         {
 
-            updateSplit = true;    
+            updateSplit = "yes";    
             
 
         }
@@ -156,14 +193,14 @@ namespace LiveSplit.UI.Components
         void state_OnSplitChange(object sender, EventArgs e)
         {
 
-            updateSplit = true;
+            updateSplit = "yes";
 
         }
 
         void state_OnReset(object sender, TimerPhase e)
         {
 
-            updateSplit = true;
+            updateSplit = "reset";
 
         }
         // I do not know what this is for.

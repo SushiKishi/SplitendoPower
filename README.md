@@ -9,12 +9,7 @@ Then it's time to reach for power...Splitendo Power!
 ## What's Splitendo Power?
 There's two parts to Splitendo Power. The first is very simple -- you'll add the component to your LiveSplit layout, and it will get the information needed to keep you on the right page of your notes. If you don't want to be visible on the layout, there is an option for it to be hidden; as long as it's added to your layout, it'll run whether or not you can see it.
 
-Then the main note-reading application will let you pick which issue of Splitendo Power you want to use and will flip through it page-by-page as you split through your run. These "issues" of the magazine are your speedrunning notes, and the idea is for you to be able to use a wide variety of formats:"
-* PDF - One page per split should be easy to implement; multiple pages per split will be tougher but I'll work on it if there's interest.
-* * Images - A series of images (named 01.png 02.png etc, or named after splits).
-* Plain Text - SplitNotes style, you can just use a plain text file divided by .split or any delimiter you choose.
-* A Webpage with Anchor Tags -- domain.ext/#1 #2 #3, etc.
-* A list of URLS -- A fairly niche usecase but may be helpful in certain situations.
+Then the main note-reading application will let you pick which issue of Splitendo Power you want to use and will flip through it page-by-page as you split through your run. These "issues" of the magazine are your speedrunning notes, and the idea is for you to be able to use a wide variety of formats including PDFs, images, locally-stored webpages, a list of links, plain text and more!
 
 It includes a way for you to preview your notes before starting the run, to make sure they're working as intended and in order. You can also disable automatic page-flipping to either check the page order for yourself, or resolve an issue that comes up mid-run unexpectedly without losing your page.
 
@@ -33,6 +28,10 @@ Step-by-Step:
 
 ## How to set up a Issue of Splitendo Power
 
+
+0. Create your notes -- advice for how to format them can be found on the Wiki, but shortly:
+   * For PDFs, it's EASIEST (but not REQUIRED) to get it to one page == one split
+   * For Google Docs, Word Files, etc. -- save it as a PDF
 1. Open the "issues" folder
 2. Create a new folder for run; one folder per set of notes.
 3. Use the Wiki to determine how to name your files, then add them into the folder you created.
