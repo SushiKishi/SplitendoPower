@@ -1,0 +1,140 @@
+C:\Users\tsush\source\repos\LiveSplit.SplitendoPower\LiveSplit.SplitendoPower\obj\Debug\LiveSplit.SplitendoPower.csprojAssemblyReference.cache
+C:\Users\tsush\source\repos\LiveSplit.SplitendoPower\LiveSplit.SplitendoPower\obj\Debug\LiveSplit.UI.Components.SplitendoPowerSettings.resources
+C:\Users\tsush\source\repos\LiveSplit.SplitendoPower\LiveSplit.SplitendoPower\obj\Debug\LiveSplit.SplitendoPower.csproj.GenerateResource.cache
+C:\Users\tsush\source\repos\LiveSplit.SplitendoPower\LiveSplit.SplitendoPower\obj\Debug\LiveSplit.SplitendoPower.csproj.CoreCompileInputs.cache
+C:\Users\tsush\source\repos\LiveSplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\x86\livesplit_core.dll
+C:\Users\tsush\source\repos\LiveSplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\x64\livesplit_core.dll
+C:\Users\tsush\source\repos\LiveSplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\LiveSplit.SplitendoPower.dll
+C:\Users\tsush\source\repos\LiveSplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\LiveSplit.SplitendoPower.pdb
+C:\Users\tsush\source\repos\LiveSplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\LiveSplit.Core.dll
+C:\Users\tsush\source\repos\LiveSplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\UpdateManager.dll
+C:\Users\tsush\source\repos\LiveSplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\SpeedrunComSharp.dll
+C:\Users\tsush\source\repos\LiveSplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\IrcDotNet.dll
+C:\Users\tsush\source\repos\LiveSplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\LinqToTwitter.dll
+C:\Users\tsush\source\repos\LiveSplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\CustomFontDialog.dll
+C:\Users\tsush\source\repos\LiveSplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\WinFormsColor.dll
+C:\Users\tsush\source\repos\LiveSplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\Codaxy.Xlio.dll
+C:\Users\tsush\source\repos\LiveSplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\SharpDX.DirectInput.dll
+C:\Users\tsush\source\repos\LiveSplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\IrcDotNet.Common.dll
+C:\Users\tsush\source\repos\LiveSplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\tsush\source\repos\LiveSplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\SharpDX.dll
+C:\Users\tsush\source\repos\LiveSplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\LiveSplit.Core.pdb
+C:\Users\tsush\source\repos\LiveSplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\LiveSplit.Core.xml
+C:\Users\tsush\source\repos\LiveSplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\LiveSplit.Core.dll.config
+C:\Users\tsush\source\repos\LiveSplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\UpdateManager.pdb
+C:\Users\tsush\source\repos\LiveSplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\SpeedrunComSharp.pdb
+C:\Users\tsush\source\repos\LiveSplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\IrcDotNet.xml
+C:\Users\tsush\source\repos\LiveSplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\Codaxy.Xlio.pdb
+C:\Users\tsush\source\repos\LiveSplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\SharpDX.DirectInput.xml
+C:\Users\tsush\source\repos\LiveSplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\IrcDotNet.Common.xml
+C:\Users\tsush\source\repos\LiveSplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\SharpDX.xml
+C:\Users\tsush\source\repos\LiveSplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\Codaxy.Xlio.XmlSerializers.dll
+C:\Users\tsush\source\repos\LiveSplit.SplitendoPower\LiveSplit.SplitendoPower\obj\Debug\LiveSplit.SplitendoPower.csproj.CopyComplete
+C:\Users\tsush\source\repos\LiveSplit.SplitendoPower\LiveSplit.SplitendoPower\obj\Debug\LiveSplit.SplitendoPower.dll
+C:\Users\tsush\source\repos\LiveSplit.SplitendoPower\LiveSplit.SplitendoPower\obj\Debug\LiveSplit.SplitendoPower.pdb
+C:\Users\tsush\source\repos\LiveSplit.SplitendoPower\LiveSplit.SplitendoPower\obj\Debug\LiveSplit.SplitendoPower.Properties.Resources.resources
+C:\Users\tsush\source\repos\SushiKishi\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\x86\livesplit_core.dll
+C:\Users\tsush\source\repos\SushiKishi\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\x64\livesplit_core.dll
+C:\Users\tsush\source\repos\SushiKishi\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\LiveSplit.SplitendoPower.dll
+C:\Users\tsush\source\repos\SushiKishi\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\LiveSplit.SplitendoPower.pdb
+C:\Users\tsush\source\repos\SushiKishi\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\LiveSplit.Core.dll
+C:\Users\tsush\source\repos\SushiKishi\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\UpdateManager.dll
+C:\Users\tsush\source\repos\SushiKishi\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\SpeedrunComSharp.dll
+C:\Users\tsush\source\repos\SushiKishi\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\IrcDotNet.dll
+C:\Users\tsush\source\repos\SushiKishi\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\LinqToTwitter.dll
+C:\Users\tsush\source\repos\SushiKishi\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\CustomFontDialog.dll
+C:\Users\tsush\source\repos\SushiKishi\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\WinFormsColor.dll
+C:\Users\tsush\source\repos\SushiKishi\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\Codaxy.Xlio.dll
+C:\Users\tsush\source\repos\SushiKishi\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\SharpDX.DirectInput.dll
+C:\Users\tsush\source\repos\SushiKishi\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\IrcDotNet.Common.dll
+C:\Users\tsush\source\repos\SushiKishi\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\tsush\source\repos\SushiKishi\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\SharpDX.dll
+C:\Users\tsush\source\repos\SushiKishi\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\LiveSplit.Core.pdb
+C:\Users\tsush\source\repos\SushiKishi\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\LiveSplit.Core.xml
+C:\Users\tsush\source\repos\SushiKishi\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\LiveSplit.Core.dll.config
+C:\Users\tsush\source\repos\SushiKishi\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\UpdateManager.pdb
+C:\Users\tsush\source\repos\SushiKishi\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\SpeedrunComSharp.pdb
+C:\Users\tsush\source\repos\SushiKishi\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\IrcDotNet.xml
+C:\Users\tsush\source\repos\SushiKishi\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\Codaxy.Xlio.pdb
+C:\Users\tsush\source\repos\SushiKishi\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\SharpDX.DirectInput.xml
+C:\Users\tsush\source\repos\SushiKishi\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\IrcDotNet.Common.xml
+C:\Users\tsush\source\repos\SushiKishi\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\SharpDX.xml
+C:\Users\tsush\source\repos\SushiKishi\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\Codaxy.Xlio.XmlSerializers.dll
+C:\Users\tsush\source\repos\SushiKishi\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\obj\Debug\LiveSplit.SplitendoPower.csprojAssemblyReference.cache
+C:\Users\tsush\source\repos\SushiKishi\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\obj\Debug\LiveSplit.SplitendoPower.Properties.Resources.resources
+C:\Users\tsush\source\repos\SushiKishi\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\obj\Debug\LiveSplit.UI.Components.SplitendoPowerSettings.resources
+C:\Users\tsush\source\repos\SushiKishi\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\obj\Debug\LiveSplit.SplitendoPower.csproj.GenerateResource.cache
+C:\Users\tsush\source\repos\SushiKishi\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\obj\Debug\LiveSplit.SplitendoPower.csproj.CoreCompileInputs.cache
+C:\Users\tsush\source\repos\SushiKishi\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\obj\Debug\LiveSplit.SplitendoPower.csproj.CopyComplete
+C:\Users\tsush\source\repos\SushiKishi\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\obj\Debug\LiveSplit.SplitendoPower.dll
+C:\Users\tsush\source\repos\SushiKishi\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\obj\Debug\LiveSplit.SplitendoPower.pdb
+C:\Users\My Oh Myke\source\repos\SushiKishi\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\x86\livesplit_core.dll
+C:\Users\My Oh Myke\source\repos\SushiKishi\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\x64\livesplit_core.dll
+C:\Users\My Oh Myke\source\repos\SushiKishi\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\LiveSplit.SplitendoPower.dll
+C:\Users\My Oh Myke\source\repos\SushiKishi\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\LiveSplit.SplitendoPower.pdb
+C:\Users\My Oh Myke\source\repos\SushiKishi\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\LiveSplit.Core.dll
+C:\Users\My Oh Myke\source\repos\SushiKishi\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\UpdateManager.dll
+C:\Users\My Oh Myke\source\repos\SushiKishi\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\SpeedrunComSharp.dll
+C:\Users\My Oh Myke\source\repos\SushiKishi\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\IrcDotNet.dll
+C:\Users\My Oh Myke\source\repos\SushiKishi\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\LinqToTwitter.dll
+C:\Users\My Oh Myke\source\repos\SushiKishi\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\CustomFontDialog.dll
+C:\Users\My Oh Myke\source\repos\SushiKishi\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\WinFormsColor.dll
+C:\Users\My Oh Myke\source\repos\SushiKishi\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\Codaxy.Xlio.dll
+C:\Users\My Oh Myke\source\repos\SushiKishi\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\SharpDX.DirectInput.dll
+C:\Users\My Oh Myke\source\repos\SushiKishi\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\IrcDotNet.Common.dll
+C:\Users\My Oh Myke\source\repos\SushiKishi\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\My Oh Myke\source\repos\SushiKishi\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\SharpDX.dll
+C:\Users\My Oh Myke\source\repos\SushiKishi\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\LiveSplit.Core.pdb
+C:\Users\My Oh Myke\source\repos\SushiKishi\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\LiveSplit.Core.xml
+C:\Users\My Oh Myke\source\repos\SushiKishi\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\LiveSplit.Core.dll.config
+C:\Users\My Oh Myke\source\repos\SushiKishi\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\UpdateManager.pdb
+C:\Users\My Oh Myke\source\repos\SushiKishi\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\SpeedrunComSharp.pdb
+C:\Users\My Oh Myke\source\repos\SushiKishi\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\IrcDotNet.xml
+C:\Users\My Oh Myke\source\repos\SushiKishi\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\Codaxy.Xlio.pdb
+C:\Users\My Oh Myke\source\repos\SushiKishi\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\SharpDX.DirectInput.xml
+C:\Users\My Oh Myke\source\repos\SushiKishi\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\IrcDotNet.Common.xml
+C:\Users\My Oh Myke\source\repos\SushiKishi\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\SharpDX.xml
+C:\Users\My Oh Myke\source\repos\SushiKishi\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\Codaxy.Xlio.XmlSerializers.dll
+C:\Users\My Oh Myke\source\repos\SushiKishi\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\obj\Debug\LiveSplit.SplitendoPower.csprojAssemblyReference.cache
+C:\Users\My Oh Myke\source\repos\SushiKishi\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\obj\Debug\LiveSplit.SplitendoPower.Properties.Resources.resources
+C:\Users\My Oh Myke\source\repos\SushiKishi\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\obj\Debug\LiveSplit.UI.Components.SplitendoPowerSettings.resources
+C:\Users\My Oh Myke\source\repos\SushiKishi\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\obj\Debug\LiveSplit.SplitendoPower.csproj.GenerateResource.cache
+C:\Users\My Oh Myke\source\repos\SushiKishi\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\obj\Debug\LiveSplit.SplitendoPower.csproj.CoreCompileInputs.cache
+C:\Users\My Oh Myke\source\repos\SushiKishi\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\obj\Debug\LiveSplit.SplitendoPower.csproj.CopyComplete
+C:\Users\My Oh Myke\source\repos\SushiKishi\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\obj\Debug\LiveSplit.SplitendoPower.dll
+C:\Users\My Oh Myke\source\repos\SushiKishi\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\obj\Debug\LiveSplit.SplitendoPower.pdb
+E:\repos\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\x86\livesplit_core.dll
+E:\repos\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\x64\livesplit_core.dll
+E:\repos\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\LiveSplit.SplitendoPower.dll
+E:\repos\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\LiveSplit.SplitendoPower.pdb
+E:\repos\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\LiveSplit.Core.dll
+E:\repos\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\UpdateManager.dll
+E:\repos\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\SpeedrunComSharp.dll
+E:\repos\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\IrcDotNet.dll
+E:\repos\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\LinqToTwitter.dll
+E:\repos\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\CustomFontDialog.dll
+E:\repos\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\WinFormsColor.dll
+E:\repos\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\Codaxy.Xlio.dll
+E:\repos\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\SharpDX.DirectInput.dll
+E:\repos\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\IrcDotNet.Common.dll
+E:\repos\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\repos\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\SharpDX.dll
+E:\repos\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\LiveSplit.Core.pdb
+E:\repos\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\LiveSplit.Core.xml
+E:\repos\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\LiveSplit.Core.dll.config
+E:\repos\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\UpdateManager.pdb
+E:\repos\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\SpeedrunComSharp.pdb
+E:\repos\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\IrcDotNet.xml
+E:\repos\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\Codaxy.Xlio.pdb
+E:\repos\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\SharpDX.DirectInput.xml
+E:\repos\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\IrcDotNet.Common.xml
+E:\repos\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\SharpDX.xml
+E:\repos\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\bin\Debug\Codaxy.Xlio.XmlSerializers.dll
+E:\repos\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\obj\Debug\LiveSplit.SplitendoPower.Properties.Resources.resources
+E:\repos\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\obj\Debug\LiveSplit.UI.Components.SplitendoPowerSettings.resources
+E:\repos\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\obj\Debug\LiveSplit.SplitendoPower.csproj.GenerateResource.cache
+E:\repos\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\obj\Debug\LiveSplit.SplitendoPower.csproj.CoreCompileInputs.cache
+E:\repos\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\obj\Debug\LiveSplit.SplitendoPower.csproj.CopyComplete
+E:\repos\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\obj\Debug\LiveSplit.SplitendoPower.dll
+E:\repos\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\obj\Debug\LiveSplit.SplitendoPower.pdb
+E:\repos\Livesplit.SplitendoPower\LiveSplit.SplitendoPower\obj\Debug\LiveSplit.SplitendoPower.csprojAssemblyReference.cache
